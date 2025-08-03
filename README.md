@@ -18,3 +18,4 @@ Q.7. How is the price affected when tickets are bought in just 1 or 2 days befor
 Q.8. How does the ticket price vary between Economy and Business class?
 
 Q.9. What will be the Average Price of Vistara airline for a flight from Delhi to Hyderabad in Business Class ?
+Rahul
